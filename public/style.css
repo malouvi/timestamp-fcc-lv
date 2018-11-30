@@ -1,0 +1,25 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+	background-color: #ffb833;
+	text-align: center;
+	
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+ul {
+	list-style-type: none;
+}
+a {
+	color: #2574A9;
+  text-decoration:none;
+}
+a:hover{
+color:red;
+}
